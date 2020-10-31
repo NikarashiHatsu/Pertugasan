@@ -1,0 +1,9 @@
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkPersegi1\ApkPersegi1\bin\Debug\ApkPersegi1.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkPersegi1\ApkPersegi1\bin\Debug\ApkPersegi1.pdb
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkPersegi1\ApkPersegi1\bin\Debug\ApkPersegi1.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkPersegi1\ApkPersegi1\obj\x86\Debug\ApkPersegi1.Form1.resources
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkPersegi1\ApkPersegi1\obj\x86\Debug\ApkPersegi1.Resources.resources
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkPersegi1\ApkPersegi1\obj\x86\Debug\ApkPersegi1.vbproj.GenerateResource.Cache
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkPersegi1\ApkPersegi1\obj\x86\Debug\ApkPersegi1.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkPersegi1\ApkPersegi1\obj\x86\Debug\ApkPersegi1.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkPersegi1\ApkPersegi1\obj\x86\Debug\ApkPersegi1.pdb

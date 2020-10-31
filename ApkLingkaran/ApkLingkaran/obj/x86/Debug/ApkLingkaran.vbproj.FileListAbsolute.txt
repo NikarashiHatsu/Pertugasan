@@ -1,0 +1,9 @@
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkLingkaran\ApkLingkaran\bin\Debug\ApkLingkaran.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkLingkaran\ApkLingkaran\bin\Debug\ApkLingkaran.pdb
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkLingkaran\ApkLingkaran\bin\Debug\ApkLingkaran.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkLingkaran\ApkLingkaran\obj\x86\Debug\ApkLingkaran.Form1.resources
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkLingkaran\ApkLingkaran\obj\x86\Debug\ApkLingkaran.Resources.resources
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkLingkaran\ApkLingkaran\obj\x86\Debug\ApkLingkaran.vbproj.GenerateResource.Cache
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkLingkaran\ApkLingkaran\obj\x86\Debug\ApkLingkaran.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkLingkaran\ApkLingkaran\obj\x86\Debug\ApkLingkaran.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkLingkaran\ApkLingkaran\obj\x86\Debug\ApkLingkaran.pdb

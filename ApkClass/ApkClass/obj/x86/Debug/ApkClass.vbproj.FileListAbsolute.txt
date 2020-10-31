@@ -1,0 +1,11 @@
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\bin\Debug\ApkClass.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\bin\Debug\ApkClass.pdb
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\bin\Debug\ApkClass.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\obj\x86\Debug\ApkClass.vbproj.GenerateResource.Cache
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\obj\x86\Debug\ApkClass.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\obj\x86\Debug\ApkClass.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\obj\x86\Debug\ApkClass.pdb
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\obj\x86\Debug\WindowsApplication1.FormPersegi.resources
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\obj\x86\Debug\WindowsApplication1.FormSegitiga.resources
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkClass\ApkClass\obj\x86\Debug\WindowsApplication1.FormLingkaran.resources

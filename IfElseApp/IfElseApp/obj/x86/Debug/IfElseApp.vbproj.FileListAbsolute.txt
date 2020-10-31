@@ -1,0 +1,12 @@
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\IfElseApp\bin\Debug\IfElseApp.exe
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\IfElseApp\bin\Debug\IfElseApp.pdb
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\IfElseApp\bin\Debug\IfElseApp.xml
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\IfElseApp\obj\x86\Debug\IfElseApp.Form1.resources
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\IfElseApp\obj\x86\Debug\IfElseApp.Resources.resources
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\IfElseApp\obj\x86\Debug\IfElseApp.vbproj.GenerateResource.Cache
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\IfElseApp\obj\x86\Debug\IfElseApp.exe
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\IfElseApp\obj\x86\Debug\IfElseApp.xml
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\IfElseApp\obj\x86\Debug\IfElseApp.pdb
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\IfElseApp\IfElseApp\obj\x86\Debug\IfElseApp.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\IfElseApp\IfElseApp\obj\x86\Debug\IfElseApp.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\IfElseApp\IfElseApp\obj\x86\Debug\IfElseApp.pdb

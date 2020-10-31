@@ -1,0 +1,18 @@
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\ApkTabung\bin\Debug\ApkTabung.exe
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\ApkTabung\bin\Debug\ApkTabung.pdb
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\ApkTabung\bin\Debug\ApkTabung.xml
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\ApkTabung\obj\x86\Debug\ApkTabung.Form1.resources
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\ApkTabung\obj\x86\Debug\ApkTabung.Resources.resources
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\ApkTabung\obj\x86\Debug\ApkTabung.vbproj.GenerateResource.Cache
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\ApkTabung\obj\x86\Debug\ApkTabung.exe
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\ApkTabung\obj\x86\Debug\ApkTabung.xml
+C:\Users\HatsuShiroyuki\AppData\Local\Temporary Projects\ApkTabung\obj\x86\Debug\ApkTabung.pdb
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkTabung\ApkTabung\obj\x86\Debug\ApkTabung.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkTabung\ApkTabung\obj\x86\Debug\ApkTabung.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkTabung\ApkTabung\obj\x86\Debug\ApkTabung.pdb
+C:\Users\HatsuShiroyuki\Documents\Visual Studio 2010\Projects\ApkTabung\ApkTabung\bin\Debug\ApkTabung.exe
+C:\Users\HatsuShiroyuki\Documents\Visual Studio 2010\Projects\ApkTabung\ApkTabung\bin\Debug\ApkTabung.pdb
+C:\Users\HatsuShiroyuki\Documents\Visual Studio 2010\Projects\ApkTabung\ApkTabung\bin\Debug\ApkTabung.xml
+C:\Users\HatsuShiroyuki\Documents\Visual Studio 2010\Projects\ApkTabung\ApkTabung\obj\x86\Debug\ApkTabung.Form1.resources
+C:\Users\HatsuShiroyuki\Documents\Visual Studio 2010\Projects\ApkTabung\ApkTabung\obj\x86\Debug\ApkTabung.Resources.resources
+C:\Users\HatsuShiroyuki\Documents\Visual Studio 2010\Projects\ApkTabung\ApkTabung\obj\x86\Debug\ApkTabung.vbproj.GenerateResource.Cache

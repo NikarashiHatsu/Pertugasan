@@ -1,0 +1,10 @@
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\bin\Debug\ApkBalok.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\bin\Debug\ApkBalok.pdb
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\bin\Debug\ApkBalok.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\obj\x86\Debug\ApkBalok.Form1.resources
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\obj\x86\Debug\ApkBalok.Resources.resources
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\obj\x86\Debug\ApkBalok.vbproj.GenerateResource.Cache
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\obj\x86\Debug\ApkBalok.exe
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\obj\x86\Debug\ApkBalok.xml
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\obj\x86\Debug\ApkBalok.pdb
+C:\Users\HatsuShiroyuki\documents\visual studio 2010\Projects\ApkBalok\ApkBalok\obj\x86\Debug\ApkBalok.Form2.resources
